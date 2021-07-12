@@ -1,1 +1,1 @@
-Implementation of Prim's Algorithm in Java
+Simple implementation of Prim's Algorithm in Java
